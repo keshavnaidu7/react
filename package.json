@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://github.com/keshavnaidu7/react",
+  "homepage":"https://keshavnaidu7.github.io/react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
